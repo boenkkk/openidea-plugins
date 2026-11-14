@@ -1,0 +1,6 @@
+repository = "https://github.com/Royshare/openidea-pdfviewer"
+
+[[versions]]
+version = "0.1.2"
+package = "https://github.com/Royshare/openidea-pdfviewer/releases/download/v0.1.2/myrrr.pdfviewer-0.1.2.oiplugin"
+sha256 = "26e15167fa1cb75d26355ec6bc2ba604c50a053fc2797c7e7255eb10b1d5ac2f"
